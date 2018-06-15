@@ -1,7 +1,7 @@
 # Spectrogram Recognition
 This is the main content of my graduation project. It can acquire spectrum(spectrogram) from RSA306B real-time spectrum analyzer. After acquisition, we can put all the training set(spectrums) into convolutional neural network which I choose Inception-v3. Acquire again, then we can test the right percent of test set(spectrum We just acquired). I also made a GUI which is convenient.
 
-There should be a GUI photo.
+![GUI](https://github.com/zhaoke2018/Spectrogram-Recognition/blob/master/gui.png "GUI")
 
 ## Environment
 ### Hardware
