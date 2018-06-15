@@ -22,5 +22,5 @@ This is the main content of my graduation project. It can acquire spectrum(spect
 7. Press the "test" button(about 5~10 seconds)
 
 ## Reference
-https://www.tensorflow.org/tutorials/image_retraining
+https://www.tensorflow.org/tutorials/image_retraining<br>
 https://github.com/tkzilla/rsa_api_python_36
