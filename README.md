@@ -13,12 +13,14 @@ This is the main content of my graduation project. It can acquire spectrum(spect
 4. TensorFlow Hub
 
 ## Run
-1. Open combine.py or "python combine.py"
-2. Set center frequency
-3. Set storage path
-4. Press the "acquire" button, then we can see the real-time spectrum
-5. Copy the storage path to the right side
-6. Press the "test" button(about 5~10 seconds)
+1. put combine.py and RSA_API.py together
+2. Open combine.py or "python combine.py"
+3. Set center frequency
+4. Set storage path
+5. Press the "acquire" button, then we can see the real-time spectrum
+6. Copy the storage path to the right side
+7. Press the "test" button(about 5~10 seconds)
 
 ## Reference
 https://www.tensorflow.org/tutorials/image_retraining
+https://github.com/tkzilla/rsa_api_python_36
